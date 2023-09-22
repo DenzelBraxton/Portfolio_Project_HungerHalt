@@ -1,5 +1,6 @@
 # HungerHalt
-HungerHalt is a website that aims to address the issue of food insecurity. The website provides a platform for people to donate food and other resources to those in need. This README.md file provides an overview of the project and instructions on how to use it.
+![HungerHalt](https://github.com/DenzelBraxton/Portfolio_Project_HungerHalt/assets/99493584/d1f9311b-7372-48e6-aa7b-83a67894de0c)
+
 
 
 
